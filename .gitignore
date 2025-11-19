@@ -1,0 +1,6 @@
+*.log
+Tmp/
+history.txt
+.env
+!error.log
+
